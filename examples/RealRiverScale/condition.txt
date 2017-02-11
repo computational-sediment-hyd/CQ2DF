@@ -1,0 +1,6 @@
+dy	0.2
+dz	0.2
+WaterLevel	5.0
+bed_slope	0.00055
+equivalent_roughness	0.001
+karman's_constant	0.41
