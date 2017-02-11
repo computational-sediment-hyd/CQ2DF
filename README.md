@@ -14,7 +14,7 @@ CQ2DF is numerical simulation model that calculates simply flow velocity distrib
 
 ## Demo
 
-![example](/out.svg "example")
+![example](out.svg "example")
 
 ## Requirement
 
@@ -42,7 +42,7 @@ python CQ2DF.py
 
 ## Licence
 
-[MIT](/LICENCE)
+[MIT](LICENCE)
 
 ## Author
 
