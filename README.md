@@ -1,7 +1,5 @@
 ﻿# CQ2DF - Cross section Quasi 2D Flow Model
 
-====
-
 CQ2DF is numerical simulation model that calculates simply flow velocity distribution in cross section of river.
 
 ## Description
